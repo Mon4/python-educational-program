@@ -1,0 +1,21 @@
+1. kliknij dwa razy na main.py
+2. postêpuj¹c wed³ug instrukcji dodaj 3 pliki input.txt zawarte w folderze
+3. mi³ej zabawo-nauki! :)
+
+Mo¿liwoœæ samodzielnego dodawania zadañ tekstowych:
+1. Otwórz plik input 2 lub 3
+2. Dodaj w pierwszej kolejnoœci dzia³anie, u¿ywaj¹c x, y, z oraz operatorów matematycznych +, -, *, /
+3. W nastêpnej linii dodaj zadanie tekstowe
+4. W miejscach gdzie maj¹ zostaæ wylosowane liczby, wpisz #x, #y lub #z
+5. Uruchom ponownie program main.py
+6. Baw siê nieskoñczon¹ mo¿liwoœci¹ zadañ
+
+
+Opis dzia³alnoœci programu:
+1. Program pobiera œcie¿ki plików txt, w których zawarte s¹ polecenia. W plikach dla dzia³añ podane s¹ równania z wykorzystaniem zmiennych x, y i z, których wartoœci
+s¹ losowane w ka¿dym zadaniu. Dla zadañ tekstowych w pliku input s¹ podane dzia³ania, dziêki którym komputer mo¿e obliczyæ prawid³ow¹ odpowiedŸ oraz treœæ, która jest
+wyœwietlana u¿ytkownikowi. Dziêki losowaniu zmiennych x, y, z, mo¿na w ³atwy sposób stworzyæ du¿o zadañ, u¿ytkownik mo¿e sam je dodawaæ.
+2. U¿ytkownik ma mo¿liwoœæ wybrania trybu gry spoœród: dzia³añ, zadañ tekstowych i pól figur. Ma równie¿ mo¿liwoœæ wyboru iloœci zadañ na które chce odpowiedzieæ.
+3. Gra polega na wyœwietlaniu zadania do policzenia, u¿ytkownik musi rozwi¹zaæ zadanie matematyczne i udzieliæ odpowiedzi. Program sprawdza poprawnoœæ odpowiedzi
+i wyœwietla stosowny komunikat.
+4. Program liczy liczbê punktów zdobytych przez u¿ytkownika oraz wyœwietla ile zosta³o zadañ do rozwi¹zania w danej serii.

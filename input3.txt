@@ -1,0 +1,12 @@
+(x*y)/2
+Policz pole TRÓJK¥TA o podstawie #x i wysokoœci #y.
+x*x
+Policz pole KWADRATU o podstawie #x.
+x*x
+Policz pole KO£A o promieniu #x [pi].
+(x*y)/2
+Policz pole ROMBU o d³ugoœci jednej przek¹tnej równej #x i drugiej przek¹tnej równej #y.
+(x*y)/2
+Policz pole DELTOIDU o d³ugoœci pierwszej przek¹tnej #x i drugiej przek¹tnej #y.
+x*y
+Policz pole PROSTOK¥TU o wymiarach #x i #y.

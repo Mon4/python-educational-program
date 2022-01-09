@@ -1,0 +1,22 @@
+x + y
+Ola mia³a #x cukierków i dosta³a #y cukierków od babci. Ile cukierków Ola ma teraz?
+x + y - z
+Jaœ mia³ #x groszy, na urodziny dosta³ #y groszy, na now¹ zabawkê wyda³ #z groszy. Ile groszy ma teraz Jaœ?
+x + y
+Zosia ma #x z³otych. Dosta³a od taty jeszcze #y z³. Ile pieniêdzy ma Zosia?
+x + y
+Na klombie zasadzono #x bratków niebieskich i o #y wiêcej bratków ¿ó³tych. Ile zasadzono ¿ó³tych bratków?
+x - y
+W poniedzia³ek by³o #x stopni, a w œrodê o #y stopni mniej. Jaka temperatura by³a w œrodê?  
+x + y - z
+Monika ma #x jab³ek, zerwa³a z drzewa jeszcze #y. Wieczorem zjad³a #z jab³ek. Ile jab³ek ma Monika? 
+x * y
+Baton kosztuje #x z³, a czekolada o #y razy wiêcej. Ile kosztuje czekolada? 
+x * y + z
+Smok Wielomianek kupi³: #x kg pomarañczy po #y z³ za kg, póŸniej jeszcze wyda³ #z z³ na lizaka. Ile pieniêdzy wyda³ Smok tego dnia?
+x * y 
+Stary d¹b w królewskim ogrodzie ma magiczn¹ w³asnoœæ. W ci¹gu dnia drzewo roœnie #x cm, a w nocy #y razy wiêcej. Ile cm roœnie w nocy? 
+x / y
+Ania ma #x lat. Jej brat Pawe³ jest #y razy m³odszy. Ile lat ma Pawe³?
+x / y
+Dziewczynki maj¹ #x lalek, a ch³opcy o #y razy mniej pi³ek. Ile pi³ek maj¹ ch³opcy? 
